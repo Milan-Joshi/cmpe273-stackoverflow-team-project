@@ -1,0 +1,106 @@
+.Profile_Image {
+  padding-left: 4%;
+  padding-top: 10%;
+  padding-right: 0%;
+}
+
+.Profile_User_Info {
+  padding-top: 5px;
+  font-size: small;
+  color: #9099a1;
+}
+
+.Profile_Button_group {
+  background-color: white;
+  border-color: white;
+  border-radius: 2rem;
+  color: black;
+  font-size: small;
+}
+
+.Profile_Button_group:hover {
+  background-color: #ececec;
+  border-color: #ececec;
+  color: black;
+}
+
+.Profile_Button_group:focus {
+  background-color: #f48224;
+  border-color: #f48224;
+  color: white;
+  outline: 0;
+  box-shadow: none;
+}
+
+.Profile_Button_group_alt {
+  background-color: #f48224;
+  border-color: #f48224;
+  color: white;
+  outline: 0;
+  box-shadow: none;
+}
+
+/* .Profile_Button_group:active {
+  background-color: #f48224;
+  border-color: #f48224;
+  color: white;
+  outline: none !important;
+} */
+
+.Profile_Main_Page_Cards {
+  /* width: 80%; */
+  min-height: 100px;
+  /* background: #f8f9f9; */
+}
+
+.Profile_Main_Page_Card_Content {
+  font-size: small;
+  color: #9099a1;
+  text-align: center;
+  position: relative;
+  top: 35%;
+  bottom: 25%;
+  padding-top:3%;
+}
+
+.Profile_Main_Page_BadgesCard_Content {
+  font-size: small;
+  color: #9099a1;
+  text-align: left;
+  position: relative;
+  top: 0%;
+  bottom: 0%;
+}
+
+img {
+  -moz-user-select: none;
+  -webkit-user-drag: none;
+  -webkit-user-select: none;
+  -ms-user-select: none;
+}
+
+.ProfileQuestionBody{
+  color: #0C6EFD;
+  font-size: 14px;
+  padding-left: 2%;
+}
+
+.ProfileQuestionTags {
+  background-color: #E1ECF4;
+  color: #39739D;
+  border: none;
+  font-size: 11px;
+  font-weight: bold;
+}
+
+.ProfileQuestionButton {
+  background-color:#5DBA7D;
+  color: white;
+  border: none;
+  font-size: 12px;
+}
+
+.ProfileQuestionRow{
+  font-size: 12px;
+  padding-bottom: 1%;
+}
